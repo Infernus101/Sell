@@ -9,5 +9,5 @@ permission:
       sell.hand:
         default: op
 commands:
-  sell:
+  sellhand:
     description: Sells the item in your hand!
